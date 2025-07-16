@@ -4,5 +4,5 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F78D48&background=FF2D8900&center=true&width=435&lines=Estudiante+de+Ing.+Sistemas;Aprendiendo+Desarrollo+y+DevOps;Explorando+el+Mundo+de+los+Datos;Descubriendo+Nuevas+Herramientas" alt="Typing SVG" /></a>
 </p>
-<br>
+
 ### 👨🏻‍💻 &nbsp;About Me
