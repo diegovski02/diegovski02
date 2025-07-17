@@ -20,11 +20,16 @@
 
 <!--  -->
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
+- :school: I am a `Student` of the School of Computer and Systems Engineering at [USMP](https://fia.usmp.edu.pe/inicio/)
+- :trophy: 2x Recognized at `ExpoEpics USMP` (2022-2 & 2025-I)
+- :technologist: **Currently learning** new tools on `DevOps`, `Development` and `Data`.
+- :email: Contact me by mail from 
+<a href="mailto:dvegacajas2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="mailto:diego_vega2@usmp.pe">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+</a>
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
