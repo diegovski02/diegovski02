@@ -24,8 +24,7 @@
 - :trophy: 2x Recognized at `ExpoEpics USMP` (2022-2 & 2025-I)
 - :technologist: **Currently learning** new tools on `DevOps`, `Development` and `Data`.
 - :email: Contact me by mail from
-- <a href="mailto:dvegacajas2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-- <a href="mailto:diego_vega2@usmp.pe"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+  <a href="mailto:dvegacajas2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  <a href="mailto:diego_vega2@usmp.pe"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
