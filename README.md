@@ -27,3 +27,5 @@
   <a href="mailto:dvegacajas2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  <a href="mailto:diego_vega2@usmp.pe"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
 
 <br>
+
+<!--My Skills-->
