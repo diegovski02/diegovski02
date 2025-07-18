@@ -73,7 +73,8 @@
 
 <!--Tittle Stats-->
 
-## Git Stats
+## My GitHub Stats
 
 <!--Stats-->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
