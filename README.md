@@ -83,3 +83,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegovski02&show_icons=true&theme=dark&locale=en" alt="diegovski02" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegovski02&show_icons=true&theme=dark&locale=en&layout=compact" alt="diegovski02" /></p>
+
+by: SkyBinary Labs
