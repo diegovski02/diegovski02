@@ -84,4 +84,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegovski02&show_icons=true&theme=dark&locale=en&layout=compact" alt="diegovski02" /></p>
 
-by: SkyBinary Labs
+<b></b>
+<strong style="color: blue;">by: SkyBinary Labs</strong>
+<b></b>
