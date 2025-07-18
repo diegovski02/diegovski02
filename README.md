@@ -78,9 +78,8 @@
 
 <!--Stats-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegovski102&theme=dark" alt="diegovski102" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diegovski102&show_icons=true&theme=dark&locale=en" alt="diegovski102" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovski102&show_icons=true&theme=dark&locale=en&layout=compact" alt="diegovski102" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
