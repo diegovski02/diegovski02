@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/vc_diego2/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.kaggle.com/diegovega2/" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+</a>
 </p>
 
 <!--About Me-->
@@ -70,6 +73,7 @@
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!--Tittle Stats-->
@@ -91,4 +95,4 @@
 
 <b></b>
 
-Last edited on: 17/07/2025
+Last edited on: 19/07/2025
